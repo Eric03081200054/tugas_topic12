@@ -11,3 +11,5 @@ php artisan crud:generate missing_items_status
 App\\Http\\Controllers\\Admin 
 --route-group=admin 
 --form-helper=html
+php artisan crud:generate replacement --fields='nama_lengkap#string; mata_kuliah#string; kelas#string; prodi#string; semester#string; tahun_akademik#string; tanggal#date; jadwal_kuliah#datetime; tanggal_replacement#date; jam_replacement#time; alasan_replacement#string;' --view-path=admin --controller-namespace=App\Http\Controllers\Admin --route-group=admin --form-helper=html
+

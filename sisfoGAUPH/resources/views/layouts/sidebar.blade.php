@@ -55,4 +55,12 @@
             </p>
         </a>
     </li>
+    <li class="nav-item">
+        <a href="/admin/replacement" class="nav-link">
+            <i class="nav-icon fab fa-openid"></i>
+            <p>
+            Replacement
+            </p>
+        </a>
+    </li>
 </ul>
