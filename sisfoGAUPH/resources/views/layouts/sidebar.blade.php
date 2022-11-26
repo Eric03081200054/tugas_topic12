@@ -63,4 +63,20 @@
             </p>
         </a>
     </li>
+    <li class="nav-item">
+        <a href="/admin/location" class="nav-link">
+            <i class="nav-icon fab fa-openid"></i>
+            <p>
+            Location
+            </p>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a href="/admin/room" class="nav-link">
+            <i class="nav-icon fab fa-openid"></i>
+            <p>
+            Room
+            </p>
+        </a>
+    </li>
 </ul>
